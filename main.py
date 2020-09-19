@@ -1,7 +1,7 @@
 import xlsxwriter
 
 # Create a workbook and add a worksheet.
-workbook = xlsxwriter.Workbook('Expenses02.xlsx')
+workbook = xlsxwriter.Workbook('Expenses01.xlsx')
 worksheet = workbook.add_worksheet()
 
 # Some data we want to write to the worksheet.
