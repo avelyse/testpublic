@@ -6,7 +6,7 @@ worksheet = workbook.add_worksheet()
 
 # Some data we want to write to the worksheet.
 expenses = (
-    ['Rent', 5000],
+    ['Rent', 6000],
     ['Gas',   100],
     ['Food',  300],
     ['Gym',    50],
